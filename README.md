@@ -48,13 +48,17 @@ Note:
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
 ## INPUT: 
-
-###### LINKAGE
-<img height=20% width =40% src="https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png">
-
-###### BASE PLATE  
-<img height=10% width =40% src="https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png">
-
+<table>
+    <tr>
+      <td>LINKAGE<br>
+<img height=50% width =80% src="https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png">
+      </td>
+      <td>
+        BASE PLATE<br><img height=50% width =80% src="https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png">
+      </td>
+      </tr>
+  </table>
+  
 ###### GEAR LINKAGE
 <img height=10% width =40% src="https://user-images.githubusercontent.com/113594316/199413566-05708531-fc78-44c9-ab98-4f8a9066d318.png">
 
