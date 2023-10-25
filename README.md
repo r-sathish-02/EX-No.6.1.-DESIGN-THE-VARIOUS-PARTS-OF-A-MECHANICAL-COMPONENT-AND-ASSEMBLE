@@ -46,21 +46,38 @@ We follow the same steps for aligning the components onto their respective      
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
 ## INPUT: 
+<table>
+ <tr>
+  <td>
+   
+  #### LINKAGE
+   <img src="https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png">
+  </td>
+  <td>
 
-#### LINKAGE
-![image](https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png)
+   #### BASE PLATE
+   
+  <img src="https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png">
+  </td>
+ </tr>
+ <tr>
+  <td>
 
-#### BASE PLATE  
-![image](https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png)
-
-#### GEAR LINKAGE
-![image](https://user-images.githubusercontent.com/113594316/199413566-05708531-fc78-44c9-ab98-4f8a9066d318.png)
-
-#### FINGER
-![image](https://user-images.githubusercontent.com/113594316/199413594-5de9578e-5800-4e69-8c76-6a5749e31805.png)
-
-#### ASSEMBLED VIEW
-![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
+   #### GEAR LINKAGE 
+   <img src="https://user-images.githubusercontent.com/113594316/199413566-05708531-fc78-44c9-ab98-4f8a9066d318.png">
+  </td>
+  <td>
+   
+   #### FINGER
+   <img src="https://user-images.githubusercontent.com/113594316/199413594-5de9578e-5800-4e69-8c76-6a5749e31805.png">
+  </td>
+  <td>
+   
+   #### ASSEMBLED VIEW
+   <img src="https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png">
+  </td>
+  </tr>
+</table>
 
 ## OUTPUT:
 ![Screenshot 2023-10-24 164126](https://github.com/r-sathish-02/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/118787261/0e8dbe95-8516-45bf-b64f-1b9ffb4b648d)
