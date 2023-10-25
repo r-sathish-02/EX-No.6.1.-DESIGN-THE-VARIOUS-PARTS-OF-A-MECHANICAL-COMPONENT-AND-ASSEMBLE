@@ -71,9 +71,12 @@ If the components do not fit properly into the slots, it can be moved into the s
    #### FINGER
    <img src="https://user-images.githubusercontent.com/113594316/199413594-5de9578e-5800-4e69-8c76-6a5749e31805.png">
   </td>
-  <td>
-   
+  </tr>
+  <tr>
+   <td>
+    
    #### ASSEMBLED VIEW
+   
    <img src="https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png">
   </td>
   </tr>
